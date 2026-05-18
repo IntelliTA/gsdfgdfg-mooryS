@@ -7,6 +7,6 @@ public class Calculator {
 
     public static int subtract(int a, int b) {
         // TODO: return the difference
-        return a - b;
+        return 0;
     }
 }
