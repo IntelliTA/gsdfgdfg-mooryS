@@ -1,0 +1,21 @@
+{
+  "activity_id": 1,
+  "activity_title": "dgdfgdfgd",
+  "score": 100,
+  "max_score": 100,
+  "submitted_at": "2026-05-18T02:51:52.592Z",
+  "checkpoints": [
+    {
+      "id": 1,
+      "title": "",
+      "type": "challenge",
+      "passed": true
+    },
+    {
+      "id": 2,
+      "title": "",
+      "type": "challenge",
+      "passed": true
+    }
+  ]
+}
